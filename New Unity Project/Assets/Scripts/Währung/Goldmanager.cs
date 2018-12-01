@@ -47,6 +47,6 @@ public class Goldmanager : MonoBehaviour
 
     void UpdateUI()
     {
-        goldText.text = "G " + gold.ToString("D");
+        goldText.text = gold.ToString("D");
     }
 }

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Waffenladen.unity
     guid: eba5816ebcbe1be4a8fd7fc18f64b183
+  - enabled: 1
+    path: Assets/Scenes/CharakterBildschirm.unity
+    guid: f59b4dbd05530fd4c8c6719387c844a6
   m_configObjects: {}
